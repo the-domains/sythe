@@ -1,0 +1,14 @@
+layout_spectrum: 0.5334195892792195
+typography_spectrum: 0.5279396201949567
+color:
+  brandStrength: 0.884088778635487
+  lightness: 0.08923945436254144
+  saturation: 0.12140899314545095
+  rhythmicContrast: 0.847189906751737
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: Sythe
