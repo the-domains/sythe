@@ -1,17 +1,16 @@
 ---
 description: Really loving it so far
-dateModified: '2016-08-15T08:04:51.364Z'
-datePublished: '2016-08-15T08:05:35.800Z'
+dateModified: '2016-09-01T13:13:16.414Z'
+datePublished: '2016-09-01T13:13:17.368Z'
 title: Some test postings
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-some-test-postings.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: some-test-postings/index.html
+_type: Blurb
 
 ---
 # Some test postings
