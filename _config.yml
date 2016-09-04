@@ -1,4 +1,3 @@
-layout_spectrum: 0.5334195892792195
 typography_spectrum: 0.5279396201949567
 color:
   brandStrength: 0.884088778635487
@@ -6,9 +5,14 @@ color:
   saturation: 0.12140899314545095
   rhythmicContrast: 0.847189906751737
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+layout_spectrum: 0.5334195892792195
 name: Sythe
+navigation:
+  - name: Some test postings
+    id: 958eb75e-9ac8-45ac-b160-17a1cb6b4b6a
+    type: content
